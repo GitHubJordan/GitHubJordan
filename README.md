@@ -105,7 +105,7 @@ class Developer:
 <div align="center">
   <!-- GitHub Trophies -->
   <a href="https://github.com/GitHubJordan">
-    <img src="https://github-profile-trophy.vercel.app/?username=GitHubJordan&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="70%">
+    <img src="https://github-profile-trophy.vercel.app/?username=GitHubJordan&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="90%">
   </a>
 </div>
 

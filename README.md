@@ -31,8 +31,6 @@
   </a>
 </div>
 
----
-
 ## 🔮 Visão Tecnológica
 
 ```python
@@ -46,8 +44,6 @@ class Developer:
     def create_project(self, name):
         return f"🚀 Projeto JAM-{name} lançado!"
 ```
-
----
 
 ## ⚡ Tech Stack & Habilidades
 
@@ -69,8 +65,6 @@ class Developer:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
-
----
 
 ## 🚀 Projetos Estelares
 
@@ -95,8 +89,6 @@ class Developer:
 
 > Sistema de gestão de tempo para ambientes de acesso compartilhado
 
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -105,10 +97,17 @@ class Developer:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitHubJordan&theme=nightowl&hide_border=true&background=0f172a" alt="GitHub Streak" width="60%">
+  <img src="https://streak-stats.vercel.app?user=GitHubJordan&theme=nightowl&hide_border=true&background=0f172a" alt="GitHub Streak" width="60%">
 </div>
 
----
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/GitHubJordan">
+    <img src="https://github-profile-trophy.vercel.app/?username=GitHubJordan&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="70%">
+  </a>
+</div>
 
 ## 📚 Universo Educacional
 
@@ -121,21 +120,26 @@ class Developer:
 🎓 **Filosofia de Ensino**  
 "Transformo conceitos complexos em jornadas de aprendizado intuitivas"
 
----
-
 ## ✨ JAM Ecosystem
 
 <div align="center">
-  <span style="font-size: 4rem; display: inline-block; width: 80px; height: 80px; background: #0f172a; border-radius: 12px; line-height: 80px; margin: 0 5px; color: #4ade80;">J</span>
-  <span style="font-size: 4rem; display: inline-block; width: 80px; height: 80px; background: #0f172a; border-radius: 12px; line-height: 80px; margin: 0 5px; color: #38bdf8;">A</span>
-  <span style="font-size: 4rem; display: inline-block; width: 80px; height: 80px; background: #0f172a; border-radius: 12px; line-height: 80px; margin: 0 5px; color: #f87171;">M</span>
+  <svg width="80" height="80" viewBox="0 0 80 80">
+    <rect width="80" height="80" fill="#0f172a"/>
+    <text x="40" y="50" font-family="Arial" font-size="50" fill="#4ade80" text-anchor="middle">J</text>
+  </svg>
+  <svg width="80" height="80" viewBox="0 0 80 80">
+    <rect width="80" height="80" fill="#0f172a"/>
+    <text x="40" y="50" font-family="Arial" font-size="50" fill="#38bdf8" text-anchor="middle">A</text>
+  </svg>
+  <svg width="80" height="80" viewBox="0 0 80 80">
+    <rect width="80" height="80" fill="#0f172a"/>
+    <text x="40" y="50" font-family="Arial" font-size="50" fill="#f87171" text-anchor="middle">M</text>
+  </svg>
 </div>
 
 **Filosofia JAM**:
 
 > "Projetos que transformam complexidade em simplicidade, com interfaces intuitivas e documentação clara"
-
----
 
 ## 🌌 Conecte-se com Meu Universo
 
@@ -153,8 +157,6 @@ class Developer:
     <img src="https://img.icons8.com/color/96/000000/gmail.png" width="60">
   </a>
 </p>
-
----
 
 <div align="center">
   <h3>✨ "Código é poesia, tecnologia é arte" ✨</h3>

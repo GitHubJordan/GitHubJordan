@@ -1,0 +1,10 @@
+# Ignorar arquivos temporários
+*.tmp
+*.log
+
+# Ignorar arquivos de ambiente
+.env
+.venv
+
+# Ignorar arquivos do sistema
+.DS_Store
